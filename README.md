@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this project is made using react + vite 
+for running this project you first have to install vscode in your laptop and then npm package
+in the terminal run this command "npm run dev"
 
-Currently, two official plugins are available:
+DESCRIPTION
+this is a simpple landing page
+i have used npm package , tailwind css, html , javascript, react-icons and reactjs
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+i have designed it through a figma link :- https://www.figma.com/design/dvc71PcUEYRKrtnZOapRtI/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=0-1&m=dev
+
+
